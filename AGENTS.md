@@ -1,0 +1,1 @@
+"Use provider with ChangeNotifier classes inside presentation/providers/ and MultiProvider at the app root."
